@@ -1,0 +1,16 @@
+<Building FormatVersion="0" xmlns="http://tempuri.org/Value_O.xsd">
+
+	<NonProduction>
+		<Meta id="102" name="Kowal" />
+		<Meta id="103" name="Tawerna" />
+		<Meta id="104" name="Mury" />
+	</NonProduction>
+	<Production>
+		<Meta id="101" name="Zamek" nameSource="Zloto" baseValue="10"/>
+		<Meta id="105" name="Kopalnia" nameSource="Kamien" baseValue="5"/>
+		<Meta id="106" name="Drwal" nameSource="Drewno" baseValue="5"/>
+		<Meta id="107" name="Farma" nameSource="Zboze" baseValue="5"/>
+		<Meta id="108" name="Alchemia" nameSource="Siarka" baseValue="1"/>
+	</Production>
+
+</Building>

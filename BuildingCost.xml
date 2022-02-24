@@ -1,0 +1,42 @@
+<BuildingCost FormatVersion="0" xmlns="http://tempuri.org/Value_O.xsd">
+	<Production id="101">
+			<lvl id="2">
+				<Meta goldCost="10" stoneCost="10" woodCost="10" foodCost="10" sulfurCost="5" />
+			</lvl>
+			<lvl id="3">
+				<Meta goldCost="5000" stoneCost="100" woodCost="100" foodCost="400" sulfurCost="50" />
+			</lvl>
+			<lvl id="4">
+				<Meta goldCost="10000" stoneCost="500" woodCost="400" foodCost="800" sulfurCost="100" />
+			</lvl>
+	</Production>
+	<NonProduction id="102">
+		<lvl id="2">
+			<Meta goldCost="10" stoneCost="10" woodCost="10" foodCost="10" sulfurCost="5" />
+		</lvl>
+		<lvl id="3">
+			<Meta goldCost="100" stoneCost="100" woodCost="100" foodCost="100" sulfurCost="50" />
+		</lvl>
+		<lvl id="4">
+			<Meta goldCost="500" stoneCost="200" woodCost="100" foodCost="100" sulfurCost="50" />
+		</lvl>
+	</NonProduction>
+
+	<Production id="105">
+		<lvl id="2">
+			<Meta goldCost="50" stoneCost="50" woodCost="50" foodCost="10" sulfurCost="5" />
+		</lvl>
+		<lvl id="3">
+			<Meta goldCost="100" stoneCost="100" woodCost="100" foodCost="100" sulfurCost="50" />
+		</lvl>
+		<lvl id="4">
+			<Meta goldCost="500" stoneCost="100" woodCost="100" foodCost="100" sulfurCost="100" />
+		</lvl>
+	</Production>
+	<Production id="106">
+		<lvl id="2">
+			<Meta goldCost="50" stoneCost="50" woodCost="50" foodCost="10" sulfurCost="5" />
+		</lvl>
+	</Production>
+
+</BuildingCost>

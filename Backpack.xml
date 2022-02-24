@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<Backpack FormatVersion="0" xmlns="http://tempuri.org/Value_O.xsd">
+	<MaxSlot>33</MaxSlot>
+	<Slot idSlot="0">
+		<idItem>1300</idItem>
+	</Slot>
+	<Slot idSlot="1">
+		<idItem>1000</idItem>
+	</Slot>
+	<Slot idSlot="2">
+		<idItem>500</idItem>
+	</Slot>
+	<Slot idSlot="3">
+		<idItem>1200</idItem>
+	</Slot>
+	<Slot idSlot="4">
+		<idItem>1300</idItem>
+	</Slot>
+	<Slot idSlot="5">
+		<idItem>501</idItem>
+	</Slot>
+	<Slot idSlot="6">
+		<idItem>1100</idItem>
+	</Slot>
+	<Slot idSlot="7">
+		<idItem>1001</idItem>
+	</Slot>
+	<Slot idSlot="8">
+		<idItem>1100</idItem>
+	</Slot>
+	<Slot idSlot="9">
+		<idItem>1500</idItem>
+	</Slot>
+	<Slot idSlot="10">
+		<idItem>1600</idItem>
+	</Slot>
+	<Slot idSlot="11">
+		<idItem>0</idItem>
+	</Slot>
+	<Slot idSlot="12">
+		<idItem>0</idItem>
+	</Slot>
+	<Slot idSlot="13">
+		<idItem>0</idItem>
+	</Slot>
+	<Slot idSlot="14">
+		<idItem>0</idItem>
+	</Slot>
+	<Slot idSlot="15">
+		<idItem>0</idItem>
+	</Slot>
+	<Slot idSlot="16">
+		<idItem>0</idItem>
+	</Slot>
+	<Slot idSlot="17">
+		<idItem>0</idItem>
+	</Slot>
+	<Slot idSlot="18">
+		<idItem>200</idItem>
+	</Slot>
+	<Slot idSlot="19">
+		<idItem>101</idItem>
+	</Slot>
+	<Slot idSlot="20">
+		<idItem>200</idItem>
+	</Slot>
+	<Slot idSlot="21">
+		<idItem>301</idItem>
+	</Slot>
+	<Slot idSlot="22">
+		<idItem>400</idItem>
+	</Slot>
+	<Slot idSlot="23">
+		<idItem>2</idItem>
+	</Slot>
+	<Slot idSlot="24">
+		<idItem>102</idItem>
+	</Slot>
+	<Slot idSlot="25">
+		<idItem>200</idItem>
+	</Slot>
+	<Slot idSlot="26">
+		<idItem>300</idItem>
+	</Slot>
+	<Slot idSlot="27">
+		<idItem>200</idItem>
+	</Slot>
+	<Slot idSlot="28">
+		<idItem>1</idItem>
+	</Slot>
+	<Slot idSlot="30">
+		<idItem>0</idItem>
+	</Slot>
+	<Slot idSlot="31">
+		<idItem>2</idItem>
+	</Slot>
+	<Slot idSlot="32">
+		<idItem>2</idItem>
+	</Slot>
+</Backpack>

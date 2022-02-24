@@ -1,0 +1,929 @@
+<Item FormatVersion="0" xmlns="http://tempuri.org/Value_O.xsd">
+
+	<Eq>
+
+		
+		<Meta id="1">
+			<name>Helm 1</name>
+			<type>1</type>
+			
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			
+			<require>
+				<strength>4</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>2</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>1</statIntelligence>
+				<luck>15</luck>
+				<crit>15</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>2</baseArmor>
+				<hp>20</hp>
+				<mana>0</mana>
+			</eqStat>
+
+			<textureRect>
+				<left>1280</left>
+				<top>320</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+			
+		</Meta>
+		<Meta id="2">			
+			<name>Helm 2</name>
+			<type>1</type>
+	
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>3</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>3</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+
+			<textureRect>
+				<left>0</left>
+				<top>320</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+			</Meta>
+
+		<Meta id="100">
+			<name>Zbroja 1</name>
+			<type>2</type>
+			
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>7</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>10</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+
+			<textureRect>
+				<left>0</left>
+				<top>384</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+
+
+			</Meta>
+		<Meta id="101">
+			<name>Zbroja 2</name>
+			<type>2</type>
+					
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>5</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>5</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>5</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+
+			<textureRect>
+				<left>32</left>
+				<top>384</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+			</Meta>
+
+		<Meta id="200">
+			<name>Spodnie 1</name>
+			<type>3</type>
+
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>10</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>7</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+		
+			<textureRect>
+					<left>448</left>
+					<top>320</top>
+					<width>32</width>
+					<height>32</height>
+				</textureRect>
+
+
+			</Meta>
+		<Meta id="201">
+			<name>Spodnie 2</name>
+			<type>3</type>
+
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>10</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>3</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+
+			<textureRect>
+				<left>480</left>
+				<top>320</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+
+
+			</Meta>
+
+
+		<Meta id="300">
+			<name>Buty 1</name>
+			<type>4</type>
+
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>5</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>3</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+			
+			<textureRect>
+				<left>672</left>
+				<top>320</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+
+
+			</Meta>
+		<Meta id="301">
+			<name>Buty 2</name>
+			<type>4</type>
+			
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>5</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>1</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+
+			<textureRect>
+				<left>704</left>
+				<top>320</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+
+
+		</Meta>
+
+		
+		<Meta id="400">
+			<name>Rekawiczki 1</name>
+			<type>5</type>
+			
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>5</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>3</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+			
+			<textureRect>
+				<left>928</left>
+				<top>320</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+
+
+		</Meta>
+		<Meta id="401">
+			<name>Rekawiczki 2</name>
+			<type>5</type>
+			
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>5</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>1</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+
+			<textureRect>
+				<left>928</left>
+				<top>320</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+
+
+		</Meta>
+
+
+		<Meta id="500">
+			<name>Pierscien 1</name>
+			<type>6</type>
+			
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>2</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>5</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>5</crit>
+			</baseStat>
+			
+			<eqStat>
+				<baseArmor>0</baseArmor>
+				<hp>20</hp>
+				<mana>10</mana>
+			</eqStat>
+
+			<textureRect>
+				<left>1088</left>
+				<top>512</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+
+		</Meta>
+		<Meta id="501">
+			<name>Pierscien 2</name>
+			<type>6</type>
+
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>2</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>5</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>5</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>5</baseArmor>
+				<hp>10</hp>
+				<mana>20</mana>
+			</eqStat>
+			
+			<textureRect>
+				<left>1120</left>
+				<top>512</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+
+		</Meta>
+
+
+
+		<Meta id="600">
+			<name>Naszyjnik 1</name>
+			<type>7</type>
+			
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>2</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>5</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>0</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+
+			<textureRect>
+				<left>0</left>
+				<top>288</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+
+		</Meta>
+		<Meta id="601">
+			<name>Naszyjnik 2</name>
+			<type>7</type>
+			
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>2</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>10</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>0</baseArmor>
+				<hp>10</hp>
+				<mana>0</mana>
+			</eqStat>
+
+			<textureRect>
+				<left>32</left>
+				<top>288</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+
+		</Meta>
+
+		<Meta id="1000">
+			<name>Drewniany miecz</name>
+			<type>8</type>
+			
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>5</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<weponStat>
+				<typeDMG>1</typeDMG>
+				<range>0</range>
+				<minDMG>10</minDMG>
+				<maxDMG>20</maxDMG>
+			</weponStat>
+
+			<textureRect>
+				<left>768</left>
+				<top>576</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+		</Meta>
+		
+		<Meta id="1001">
+			<name>Miecz 2</name>
+			<type>8</type>
+			
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+			
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>5</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<weponStat>
+				<typeDMG>1</typeDMG>
+				<range>0</range>
+				<minDMG>12</minDMG>
+				<maxDMG>18</maxDMG>
+			</weponStat>
+
+			<textureRect>
+				<left>1824</left>
+				<top>576</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+		</Meta>
+
+		<Meta id="1100">
+			<name>Maczuga</name>
+			<type>9</type>
+
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>8</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>-2</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<weponStat>
+				<typeDMG>1</typeDMG>
+				<range>0</range>
+				<minDMG>20</minDMG>
+				<maxDMG>30</maxDMG>
+			</weponStat>
+
+			<textureRect>
+				<left>1760</left>
+				<top>576</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+		</Meta>
+
+		<Meta id="1200">
+			<name>sztylet</name>
+			<type>10</type>
+
+			<upgrade>1</upgrade>
+			<quality>1</quality>
+
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>8</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<weponStat>
+				<typeDMG>1</typeDMG>
+				<range>0</range>
+				<minDMG>14</minDMG>
+				<maxDMG>16</maxDMG>
+			</weponStat>
+
+			<textureRect>
+				<left>160</left>
+				<top>608</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+		</Meta>
+		
+		<Meta id="1300">
+			<name>tarcza</name>
+			<type>11</type>
+
+			<upgrade>1</upgrade>
+			<quality>2</quality>
+
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>8</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>15</baseArmor>
+				<hp>20</hp>
+				<mana>0</mana>
+				<block>20</block>
+			</eqStat>
+
+			<textureRect>
+				<left>160</left>
+				<top>352</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+		</Meta>
+		
+		<Meta id="1400">
+			<name>rozdzka 1</name>
+			<type>12</type>
+
+			<upgrade>1</upgrade>
+			<quality>3</quality>
+
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>8</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<weponStat>
+				<typeDMG>2</typeDMG>
+				<range>1</range>
+				<minDMG>5</minDMG>
+				<maxDMG>15</maxDMG>
+			</weponStat>
+
+			<textureRect>
+				<left>608</left>
+				<top>544</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+		</Meta>
+		
+		<Meta id="1500">
+			<name>rozdzka dwureczna 1</name>
+			<type>13</type>
+
+			<upgrade>1</upgrade>
+			<quality>4</quality>
+
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>8</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<weponStat>
+				<typeDMG>4</typeDMG>
+				<range>1</range>
+				<minDMG>15</minDMG>
+				<maxDMG>25</maxDMG>
+			</weponStat>
+
+			<textureRect>
+				<left>0</left>
+				<top>576</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+		</Meta>
+
+		<Meta id="1600">
+			<name>tarcza magiczna 1</name>
+			<type>14</type>
+
+			<upgrade>1</upgrade>
+			<quality>5</quality>
+
+			<require>
+				<strength>0</strength>
+				<dexterity>0</dexterity>
+				<intelligence>0</intelligence>
+				<lvl>1</lvl>
+			</require>
+
+			<baseStat>
+				<statStrength>0</statStrength>
+				<statDexterity>8</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<luck>0</luck>
+				<crit>0</crit>
+			</baseStat>
+
+			<eqStat>
+				<baseArmor>15</baseArmor>
+				<hp>20</hp>
+				<mana>0</mana>
+				<block>20</block>
+			</eqStat>
+
+			<textureRect>
+				<left>1728</left>
+				<top>384</top>
+				<width>32</width>
+				<height>32</height>
+			</textureRect>
+		</Meta>
+
+	</Eq>
+	
+	
+</Item>
+
+<!--
+3 first item is start item    55 - 32 = 23 pute pole
+
+x->max: 2016
+
+Eq type:   id range
+	1: helm  |  1 - 99		img 10 40
+	2: klata |  100 - 199     img 0 41
+	3: nogi |  200 - 299
+	4: buty |  300 - 399		img 21 40
+	5: rekawice |  400 - 499		img 29 40
+	- - -
+	6: pierscien |  500 - 599
+	7: naczyjnik |  600 - 699
+	
+	
+	TypeDMG:
+	0 - true dmg
+	1 - physical
+	2 - pure magick
+	3 - poison
+	4 - fire
+	5 - ice
+	6 - wind
+	7 - earth
+			
+	range:
+	0 - male
+	1 - distance
+	
+	8: miecz 1 reczny  |  1000 - 1099   img 18 * 32 - 24 * 32
+	9: miecz 2 reczny |  1100 - 1199
+	10: sztylet |  1200 - 1299
+	11: tarcza |  1300 - 1399		img 11 * 32 -
+	12: mag roz 1 reczna |  1400 - 1499		img 17 * 32 <-> 19 * 32
+	13: mag roz 2 reczna  |  1500 - 1599
+	14: mag tarcza  |  1600 - 1699		img 12 * 32 <-> 54 * 32
+	
+
+
+
+
+-->
+
+<!--
+<Item FormatVersion="0" xmlns="http://tempuri.org/Value_O.xsd">
+
+	<Helmet>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="15"/>
+				
+			</rare>
+		</type>
+		<type id="2" name="Srednia zbroja">
+			<rare id="1">
+				<info id="2" name="Skórzana czapka" def="10" speed="10"/>
+				
+			</rare>
+		</type>
+		<type id="3" name="Ciezka zbroja">
+			<rare id="1">
+				<info id="3" name="Skórzana czapka" def="15" speed="2"/>
+				
+			</rare>
+		</type>
+	</Helmet>
+	
+	<Armor>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="2"/>
+			</rare>
+		</type>
+	</Armor>
+
+	<Pants>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="2"/>
+			</rare>
+		</type>
+	</Pants>
+
+	<Boots>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="2"/>
+			</rare>
+		</type>
+	</Boots>
+	
+	<Sword>
+		<type id="1" name="One Hand">
+			<rare id="1">
+				<Meta id ="1" name="Sztylet z zelaza" atk="10" speed="5" cost="100"/>
+			</rare>
+		</type>
+	</Sword>
+	
+</Item>
+
+
+
+typ id:
+1 - light
+2 - medium
+3 - heavy
+
+id:
+0-99 -> hełm
+100-199 ->
+
+-->

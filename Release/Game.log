@@ -1,0 +1,74 @@
+﻿  Gam.cpp
+D:\vc\game\Game\Game\Tavern.h(49,58): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vc\game\Game\Game\Tavern.h(49,51): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vc\game\Game\Game\Gam.cpp(191,67): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\vc\game\Game\Game\Gam.cpp(260,17): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\vc\game\Game\Game\Gam.cpp(338,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\vc\game\Game\Game\Gam.cpp(340,7): warning C4267: "argument": konwersja z "size_t" do "short", możliwa utrata danych
+D:\vc\game\Game\Game\Gam.cpp(389,80): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\vc\game\Game\Game\Gam.cpp(389,55): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\vc\game\Game\Game\Gam.cpp(397,81): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\vc\game\Game\Game\Gam.cpp(397,50): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\vc\game\Game\Game\Gam.cpp(402,76): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\vc\game\Game\Game\Gam.cpp(402,51): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\vc\game\Game\Game\Gam.cpp(499,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\vc\game\Game\Game\Gam.cpp(502,47): warning C4267: "argument": konwersja z "size_t" do "short", możliwa utrata danych
+D:\vc\game\Game\Game\Gam.cpp(502,95): warning C4267: "argument": konwersja z "size_t" do "short", możliwa utrata danych
+D:\vc\game\Game\Game\Gam.cpp(529,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\vc\game\Game\Game\Gam.cpp(532,46): warning C4267: "argument": konwersja z "size_t" do "short", możliwa utrata danych
+D:\vc\game\Game\Game\Gam.cpp(532,92): warning C4267: "argument": konwersja z "size_t" do "short", możliwa utrata danych
+D:\vc\game\Game\Game\Gam.cpp(573,25): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+D:\vc\game\Game\Game\Gam.cpp(576,26): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+LINK : fatal error LNK1181: nie można otworzyć pliku wejściowego „sfml-grapic.lib”

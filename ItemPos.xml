@@ -1,0 +1,254 @@
+<Item FormatVersion="0" xmlns="http://tempuri.org/Value_O.xsd">
+
+
+	
+	<Eq>
+		<helmet>		
+			<positionLeft>
+				
+			</positionLeft>
+			<positionTop>
+				
+			</positionTop>
+
+			
+			<spriteRectLeft>0</spriteRectLeft>
+			<spriteRectTop>0</spriteRectTop>
+			<spriteRectWidth>32</spriteRectWidth>
+			<spriteRectHeight>32</spriteRectHeight>
+
+			<spriteScaleX>1</spriteScaleX>
+			<spriteScaleY>1</spriteScaleY>
+			
+		</helmet>
+
+		<!--
+		<armor>
+			<positionLeft>
+
+			</positionLeft>
+			<positionTop>
+
+			</positionTop>
+
+
+			<spriteRectLeft>0</spriteRectLeft>
+			<spriteRectTop>0</spriteRectTop>
+			<spriteRectWidth>32</spriteRectWidth>
+			<spriteRectHeight>32</spriteRectHeight>
+
+			<spriteScaleX>1</spriteScaleX>
+			<spriteScaleY>1</spriteScaleY>
+		</armor>
+		
+		<legs>
+			<positionLeft>
+
+			</positionLeft>
+			<positionTop>
+
+			</positionTop>
+
+
+			<spriteRectLeft>0</spriteRectLeft>
+			<spriteRectTop>0</spriteRectTop>
+			<spriteRectWidth>32</spriteRectWidth>
+			<spriteRectHeight>32</spriteRectHeight>
+
+			<spriteScaleX>1</spriteScaleX>
+			<spriteScaleY>1</spriteScaleY>
+		</legs>
+		
+		<shoes>
+			<positionLeft>
+
+			</positionLeft>
+			<positionTop>
+
+			</positionTop>
+
+
+			<spriteRectLeft>0</spriteRectLeft>
+			<spriteRectTop>0</spriteRectTop>
+			<spriteRectWidth>32</spriteRectWidth>
+			<spriteRectHeight>32</spriteRectHeight>
+
+			<spriteScaleX>1</spriteScaleX>
+			<spriteScaleY>1</spriteScaleY>
+		</shoes>
+		
+		<gloves>
+			<positionLeft>
+
+			</positionLeft>
+			<positionTop>
+
+			</positionTop>
+
+
+			<spriteRectLeft>0</spriteRectLeft>
+			<spriteRectTop>0</spriteRectTop>
+			<spriteRectWidth>32</spriteRectWidth>
+			<spriteRectHeight>32</spriteRectHeight>
+
+			<spriteScaleX>1</spriteScaleX>
+			<spriteScaleY>1</spriteScaleY>
+		</gloves>
+		
+		<ring>
+			<positionLeft>
+
+			</positionLeft>
+			<positionTop>
+
+			</positionTop>
+
+
+			<spriteRectLeft>0</spriteRectLeft>
+			<spriteRectTop>0</spriteRectTop>
+			<spriteRectWidth>32</spriteRectWidth>
+			<spriteRectHeight>32</spriteRectHeight>
+
+			<spriteScaleX>1</spriteScaleX>
+			<spriteScaleY>1</spriteScaleY>
+		</ring>
+		
+		<ring_2>
+			<positionLeft>
+
+			</positionLeft>
+			<positionTop>
+
+			</positionTop>
+
+
+			<spriteRectLeft>0</spriteRectLeft>
+			<spriteRectTop>0</spriteRectTop>
+			<spriteRectWidth>32</spriteRectWidth>
+			<spriteRectHeight>32</spriteRectHeight>
+
+			<spriteScaleX>1</spriteScaleX>
+			<spriteScaleY>1</spriteScaleY>
+		</ring_2>
+		
+		<necklaces></necklaces>
+		<weapon_1></weapon_1>
+		<weapon_2></weapon_2>
+		-->
+
+	</Eq>
+	
+	
+</Item>
+
+<!--
+3 first item is start item
+
+Eq id:   id range
+	1: helm  |  1 - 99
+	2: klata |  100 - 199
+	3: nogi |  200 - 299
+	4: buty |  300 - 399
+	5: rekawice |  400 - 499
+	- - -
+	6: pierscien |  500 - 599
+	7: naczyjnik |  600 - 699
+	
+	
+	TypeDMG:
+	0 - physical
+	1 - magick
+	3 - 10 -> 
+			30 physical / 70 magick,
+			60 physical / 70 magick
+			
+	range:
+	0 - male
+	1 - distance
+	2 - 50/50
+	
+	
+	100: miecz 1 reczny  |  1000 - 1099
+	101: miecz 2 reczny |  1100 - 1199
+	103: sztylet |  1200 - 1299
+	102: tarcza |  1300 - 1399
+	104: mag roz 1 reczna |  1400 - 1499
+	105: mag roz 2 reczna  |  1500 - 1599
+	106: mag tarcza  |  1600 - 1699
+	
+
+
+
+
+-->
+
+<!--
+<Item FormatVersion="0" xmlns="http://tempuri.org/Value_O.xsd">
+
+	<Helmet>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="15"/>
+				
+			</rare>
+		</type>
+		<type id="2" name="Srednia zbroja">
+			<rare id="1">
+				<info id="2" name="Skórzana czapka" def="10" speed="10"/>
+				
+			</rare>
+		</type>
+		<type id="3" name="Ciezka zbroja">
+			<rare id="1">
+				<info id="3" name="Skórzana czapka" def="15" speed="2"/>
+				
+			</rare>
+		</type>
+	</Helmet>
+	
+	<Armor>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="2"/>
+			</rare>
+		</type>
+	</Armor>
+
+	<Pants>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="2"/>
+			</rare>
+		</type>
+	</Pants>
+
+	<Boots>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="2"/>
+			</rare>
+		</type>
+	</Boots>
+	
+	<Sword>
+		<type id="1" name="One Hand">
+			<rare id="1">
+				<Meta id ="1" name="Sztylet z zelaza" atk="10" speed="5" cost="100"/>
+			</rare>
+		</type>
+	</Sword>
+	
+</Item>
+
+
+
+typ id:
+1 - light
+2 - medium
+3 - heavy
+
+id:
+0-99 -> hełm
+100-199 ->
+
+-->

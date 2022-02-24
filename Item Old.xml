@@ -1,0 +1,391 @@
+<Item FormatVersion="0" xmlns="http://tempuri.org/Value_O.xsd">
+
+	<Eq>
+		<helmet type="1">
+			<Meta id="1">
+				<name>Helm 1</name>
+				<baseArmor>2</baseArmor>
+				<statStrength>2</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>1</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>5</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="2">
+				<name>Helm 2</name>
+				<baseArmor>3</baseArmor>
+				<statStrength>0</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>3</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="3">
+				<name>Helm 3</name>
+				<baseArmor>1</baseArmor>
+				<statStrength>3</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>3</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+		</helmet>
+		<armor type="2">
+			<Meta id="100">
+				<name>Zbroja 1</name>
+				<baseArmor>10</baseArmor>
+				<statStrength>7</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="101">
+				<name>Zbroja 2</name>
+				<baseArmor>5</baseArmor>
+				<statStrength>5</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>5</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="102">
+				<name>Zbroja 3</name>
+				<baseArmor>2</baseArmor>
+				<statStrength>1</statStrength>
+				<statDexterity>5</statDexterity>
+				<statIntelligence>3</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+		</armor>
+		<legs type="3">
+			<Meta id="200">
+				<name>Spodnie 1</name>
+				<baseArmor>7</baseArmor>
+				<statStrength>10</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="201">
+				<name>Spodnie 2</name>
+				<baseArmor>3</baseArmor>
+				<statStrength>0</statStrength>
+				<statDexterity>10</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="202">
+				<name>Spodnie 3</name>
+				<baseArmor>1</baseArmor>
+				<statStrength>0</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>10</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>		
+		</legs>
+		<shoes type="4">
+			<Meta id="300">
+				<name>Buty 1</name>
+				<baseArmor>3</baseArmor>
+				<statStrength>5</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="301">
+				<name>Buty 2</name>
+				<baseArmor>1</baseArmor>
+				<statStrength>0</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>5</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="301">
+				<name>Buty 3</name>
+				<baseArmor>2</baseArmor>
+				<statStrength>0</statStrength>
+				<statDexterity>5</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+		</shoes>
+		
+		<gloves type="5">
+			<Meta id="400">
+				<name>Rekawiczki 1</name>
+				<baseArmor>3</baseArmor>
+				<statStrength>5</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="401">
+				<name>Rekawiczki 2</name>
+				<baseArmor>1</baseArmor>
+				<statStrength>0</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>5</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="402">
+				<name>Rekawiczki 3</name>
+				<baseArmor>1</baseArmor>
+				<statStrength>0</statStrength>
+				<statDexterity>5</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<upgrade>1</upgrade>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+		</gloves>
+		
+		<sword type="100">
+			<Meta id="1000">
+				<name>Miecz 1</name>
+				<typeDMG>1</typeDMG>
+				<range>0</range>
+				<upgrade>1</upgrade>
+				<baseDMG>10</baseDMG>
+				<statStrength>0</statStrength>
+				<statDexterity>5</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="1001">
+				<name>Miecz 2</name>
+				<typeDMG>1</typeDMG>
+				<range>0</range>
+				<upgrade>1</upgrade>
+				<baseDMG>10</baseDMG>
+				<statStrength>5</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+			<Meta id="1002">
+				<name>Miecz 3</name>
+				<typeDMG>1</typeDMG>
+				<range>0</range>
+				<upgrade>1</upgrade>
+				<baseDMG>15</baseDMG>
+				<statStrength>0</statStrength>
+				<statDexterity>0</statDexterity>
+				<statIntelligence>0</statIntelligence>
+				<require>
+					<strength>0</strength>
+					<dexterity>0</dexterity>
+					<intelligence>0</intelligence>
+					<lvl>1</lvl>
+				</require>
+			</Meta>
+		</sword>
+	</Eq>
+	
+	
+</Item>
+
+<!--
+3 first item is start item
+
+Eq id:   id range
+	1: helm  |  1 - 99
+	2: klata |  100 - 199
+	3: nogi |  200 - 299
+	4: buty |  300 - 399
+	5: rekawice |  400 - 499
+	- - -
+	6: pierscien |  500 - 599
+	7: naczyjnik |  600 - 699
+	
+	
+	TypeDMG:
+	0 - physical
+	1 - magick
+	3 - 10 -> 
+			30 physical / 70 magick,
+			60 physical / 70 magick
+			
+	range:
+	0 - male
+	1 - distance
+	2 - 50/50
+	
+	
+	100: miecz 1 reczny  |  1000 - 1099
+	101: miecz 2 reczny |  1100 - 1199
+	103: sztylet |  1200 - 1299
+	102: tarcza |  1300 - 1399
+	104: mag roz 1 reczna |  1400 - 1499
+	105: mag roz 2 reczna  |  1500 - 1599
+	106: mag tarcza  |  1600 - 1699
+	
+
+
+
+
+-->
+
+<!--
+<Item FormatVersion="0" xmlns="http://tempuri.org/Value_O.xsd">
+
+	<Helmet>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="15"/>
+				
+			</rare>
+		</type>
+		<type id="2" name="Srednia zbroja">
+			<rare id="1">
+				<info id="2" name="Skórzana czapka" def="10" speed="10"/>
+				
+			</rare>
+		</type>
+		<type id="3" name="Ciezka zbroja">
+			<rare id="1">
+				<info id="3" name="Skórzana czapka" def="15" speed="2"/>
+				
+			</rare>
+		</type>
+	</Helmet>
+	
+	<Armor>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="2"/>
+			</rare>
+		</type>
+	</Armor>
+
+	<Pants>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="2"/>
+			</rare>
+		</type>
+	</Pants>
+
+	<Boots>
+		<type id="1" name="Lekka zbroja">
+			<rare id="1">
+				<info id="1" name="Skórzana czapka" def="5" speed="2"/>
+			</rare>
+		</type>
+	</Boots>
+	
+	<Sword>
+		<type id="1" name="One Hand">
+			<rare id="1">
+				<Meta id ="1" name="Sztylet z zelaza" atk="10" speed="5" cost="100"/>
+			</rare>
+		</type>
+	</Sword>
+	
+</Item>
+
+
+
+typ id:
+1 - light
+2 - medium
+3 - heavy
+
+id:
+0-99 -> hełm
+100-199 ->
+
+-->
