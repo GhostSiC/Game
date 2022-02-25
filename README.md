@@ -7,7 +7,7 @@ W tawernie można kupować postacie które mają podstawowe wyposażenie.
 ![image](https://user-images.githubusercontent.com/79279375/155628105-b897d7a5-9c14-40b2-99b4-b93fa5df4d9c.png)
 
 Każdej kupionej postaci można zmieniać ekwipunek.
-![image](https://user-images.githubusercontent.com/79279375/155628217-6649e19f-5b65-4fcc-83d0-889f4b03bd4a.png)
+![image](https://user-images.githubusercontent.com/79279375/155628941-52ba5ebc-1eb0-4ddc-9c78-63cba5f999bb.png)
 
 Przedmioty są podzielone na swoje klasy poprzez unikatowość przedmiotu oraz jaka jest to część wyposażenia. Każdy przedmiot jest unikatowy i ma rożne statystyki.
 Poza podstawowymi wartościami jak życie, siła zwinność oraz inteligecja przedmioty mogą dodawać szczęscie, szanse na blok, szanse na cios krytyczny.
